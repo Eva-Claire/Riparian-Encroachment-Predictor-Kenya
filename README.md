@@ -1,1 +1,2 @@
 # Riparian-Encroachment-Predictor-Kenya
+This project aims to predict encroachment on riparian zones in Kenya using geospatial data and machine learning. Riparian zones are ecologically sensitive areas near water bodies and illegal encroachment poses a threat to water quality, biodiversity and ecosystem health. The project applies predictive modeling to help policymakers and natural resource managers identify areas at risk of encroachment supporting data-driven decision-making for environmental conservation.
